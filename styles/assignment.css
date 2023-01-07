@@ -20,7 +20,10 @@ h1{
         background-image: url(../images/banner/banner3.png);
         width: 1600px;
         height: 808px;
+        background-repeat: no-repeat;
+        
     }
+
 p{
     position: absolute;
     width: 494px;
@@ -41,4 +44,29 @@ button{
     top: 578px;
     left: 1210px;
     
+}
+
+
+.banner{
+    position: absolute;
+    width: 451px;
+    height: 898px;
+    left: 283px;
+    top: 959px;
+
+
+}
+
+h2{
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 868px;
+    top: 1189px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
 }
