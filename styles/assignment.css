@@ -1,0 +1,44 @@
+h1{
+    
+    position: absolute;
+    width: 552px;
+    height: 228px;
+    left: 818px;
+    top: 216px;
+    line-height: 76.25px;
+    color: #FFFFFF;
+    font-size: 65px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 76px;
+    text-align: right;
+
+}
+
+    body{
+        background-image: url(../images/banner/banner3.png);
+        width: 1600px;
+        height: 808px;
+    }
+p{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: right;
+}
+button{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    top: 578px;
+    left: 1210px;
+    
+}
