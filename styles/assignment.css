@@ -103,3 +103,20 @@ p{
     color: #444343;
 
 }
+h3{
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414;
+    vertical-align: top;
+
+}
+
