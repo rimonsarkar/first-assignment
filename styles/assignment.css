@@ -59,9 +59,9 @@ button{
 
 h2{
     position: absolute;
-    width: 288px;
+    width: 279.69px;
     height: 94px;
-    left: 868px;
+    left: 880px;
     top: 1189px;
     font-family: 'Work Sans';
     font-style: normal;
@@ -73,17 +73,33 @@ h2{
 
 .Contrary{
     position: absolute;
-    width: 416px;
+    width: 404px;
     height: 104px;
-    left: 830px;
+    left: 880px;
     top: 1307px;
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 139%;
+    font-size: 16px;
+    line-height: 26px;
     vertical-align: top;
     color:  #444343;
 
+
+}
+p{
+    text-indent: 24px;
+}
+
+
+.simply{
+
+    position: absolute;
+    width: 365.93px;
+    height: 162px;
+    left: 879px;
+    top: 1435px;
+    font-size: 16px;
+    color: #444343;
 
 }
