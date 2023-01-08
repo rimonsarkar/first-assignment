@@ -70,3 +70,20 @@ h2{
     line-height: 47px;
     color: #151414;
 }
+
+.Contrary{
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 830px;
+    top: 1307px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 139%;
+    vertical-align: top;
+    color:  #444343;
+
+
+}
